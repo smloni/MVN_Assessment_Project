@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16836" started-at="2021-10-07T03:05:24Z" finished-at="2021-10-07T03:05:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16836" started-at="2021-10-07T03:05:24Z" finished-at="2021-10-07T03:05:41Z">
+      <class name="com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test">
+        <test-method status="PASS" signature="ValidateBlazeDemoHome()[pri:0, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="ValidateBlazeDemoHome" duration-ms="5233" started-at="2021-10-07T08:35:24Z" finished-at="2021-10-07T08:35:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateBlazeDemoHome -->
+        <test-method status="PASS" signature="ValidateReservePage()[pri:1, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="ValidateReservePage" duration-ms="862" started-at="2021-10-07T08:35:29Z" finished-at="2021-10-07T08:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateReservePage -->
+        <test-method status="PASS" signature="ValidatePurchasePage()[pri:2, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="ValidatePurchasePage" duration-ms="2709" started-at="2021-10-07T08:35:30Z" finished-at="2021-10-07T08:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePurchasePage -->
+        <test-method status="PASS" signature="ValidateCinfirmationPage()[pri:3, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="ValidateCinfirmationPage" duration-ms="3397" started-at="2021-10-07T08:35:33Z" finished-at="2021-10-07T08:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCinfirmationPage -->
+        <test-method status="PASS" signature="PrintConfirmedData()[pri:4, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="PrintConfirmedData" duration-ms="237" started-at="2021-10-07T08:35:36Z" finished-at="2021-10-07T08:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintConfirmedData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test@56528192]" name="tearDown" is-config="true" duration-ms="4344" started-at="2021-10-07T08:35:36Z" finished-at="2021-10-07T08:35:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aris.MVN_Assessment_Project.BlazeDemo_FlightBooking_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
